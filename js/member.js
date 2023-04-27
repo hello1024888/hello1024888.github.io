@@ -25,7 +25,7 @@ var member = [
   },
   {
     "phone": "No.5311",
-    "name": "阿丹蟹面"
+    "name": "杭州印减鲜牛肉面"
   },
   {
     "phone": "No.2038",
@@ -45,7 +45,7 @@ var member = [
   },
   {
     "phone": "No.3855",
-    "name": "日系菜"
+    "name": "翘脚牛肉旁边的日系菜"
   },
   {
     "phone": "No.6389",
@@ -91,7 +91,6 @@ var member = [
     "phone": "No.9498",
     "name": "老娘舅"
   },
-  
   {
     "phone": "No.6912",
     "name": "巴蜀汉灶老火锅"
