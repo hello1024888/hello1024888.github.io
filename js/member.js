@@ -14,7 +14,7 @@ var member = [
   {
     "phone": "No.5311",
     "name": "阿丹蟹面"
-  }
+  },
   {
     "phone": "No.2038",
     "name": "新白鹿"
