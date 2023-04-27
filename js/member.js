@@ -3,6 +3,18 @@ var member = [
     "phone": "No.9032",
     "name":  "杭州印快餐"
   },
+   {
+    "phone": "No.4652",
+    "name": "盒马煎饼果子"
+  },
+  {
+    "phone": "No.9206",
+    "name": "盒马炒饭"
+  },
+  {
+    "phone": "No.7008",
+    "name": "盒马米粉"
+  },
   {
     "phone": "No.5723",
     "name": "柳上煌螺狮粉"
